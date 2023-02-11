@@ -29,7 +29,7 @@ Version: **1.0**
 
 ```mermaid
 flowchart TD;
-O[Operator]-->|Mobilis|T[Task]-->|Check Balance|C[Code];
+O((Operator))-->|Mobilis|T(Task)-->|Check Balance|C[Code];
 ```
 
 ## Author
