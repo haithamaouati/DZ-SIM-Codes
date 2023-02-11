@@ -10,6 +10,9 @@
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+  <pre>
+  </pre>
+
   <P>Algerian SIM Codes</p>
 
   <div class="container">
@@ -32,11 +35,23 @@
     </div>
 
     <div class="code-container">
-      <label for="code">Code:</label>
       <textarea id="code" readonly></textarea>
     </div>
   </div>
 
+  <p><b>Flowchart</b> — How it works?</p>
+  <div class="mermaid">
+  graph LR;
+      O[Operator]-->|Mobilis|T[Task]-->|Check Balance|C[Code];
+  </div>
+  <hr>
+  <p><small>Version: <b>1.0</b></small></p>
+  <a class="github-button" href="https://github.com/haithamaouati/ras" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star haithamaouati/ras on GitHub">Star</a>
+  <p>Made with ❤️ by <b>Haitham Aouati</b></p>
+ 
+  mermaid.initialize({startOnLoad:true})
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.5.2/dist/mermaid.min.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
