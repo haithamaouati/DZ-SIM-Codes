@@ -66,3 +66,5 @@ function updateCode() {
 
   codeTextarea.value = `${code}\n\n${description}`;
 }
+
+mermaid.initialize({startOnLoad:true});
