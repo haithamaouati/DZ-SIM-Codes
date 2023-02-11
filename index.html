@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Algerian SIM Codes</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>Algerian SIM Codes</h1>
+
+  <div class="container">
+    <div class="select-container">
+      <label for="operator-select">Select Operator:</label>
+      <select id="operator-select">
+        <option value="Mobilis">Mobilis</option>
+        <option value="Ooredoo">Ooredoo</option>
+        <option value="Djezzy">Djezzy</option>
+      </select>
+    </div>
+
+    <div class="select-container">
+      <label for="task-select">Select Task:</label>
+      <select id="task-select">
+        <option value="phone-number">Phone Number</option>
+        <option value="check-balance">Check Balance</option>
+        <option value="services-portal">Services Portal</option>
+      </select>
+    </div>
+
+    <div class="code-container">
+      <label for="code">Code:</label>
+      <textarea id="code" readonly></textarea>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
