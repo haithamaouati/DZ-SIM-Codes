@@ -14,11 +14,10 @@ ___
 # Algerian SIM Codes
 Algerian SIM Codes
 
-[Algerian SIM Codes](https://haithamaouati.github.io/Algerian-SIM-Codes/) is a free **Converter** arabic text to a format compatible with designing software.
+This web application gives you a set of **codes** with descriptions for the three mobile operators in **Algeria**: Mobilis, Ooredoo and Djezzy.
 
 ## Table of Contents
 - [Demo](#demo)
-- [Reverse](#reverse)
 - [Author](#author)
 - [License](#license)
 
