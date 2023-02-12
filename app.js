@@ -31,9 +31,8 @@ function updateCode() {
         description = "Dial *606*num# to call your Mobilis prepaid line to your prepaid and postpaid correspondents if your balance is not enough.";
         break;
       case "hide-number":
-        code = "#31#رقم الهاتف";
-        description = "إذا أردت الإحتفاظ بسرّية رقم هاتفك، يكفي تشغيل خدمة "إخفاء الرقم" بإدخال الرمز #31# قبل كل مكالمة.
-لخطوط الدّفع البعدي ، يكفي الإتصال بمصلحة خدمة الزبائن إلى الرّقم 666 أو 060600666 .";
+        code = "#31#num";
+        description = "Dial #31#num to hide your number.";
         break;
       default:
         break;
@@ -56,6 +55,10 @@ function updateCode() {
         code = "*444*1*num#";
         description = "Dial *444*1*num# to call your Ooredoo prepaid line to your prepaid and postpaid correspondents if your balance is not enough.";
         break;
+      case "hide-number":
+        code = "#31#num";
+        description = "Dial #31#num to hide your number.";
+        break;
       default:
         break;
     }
@@ -76,6 +79,10 @@ function updateCode() {
       case "call-me":
         code = "*100*2*num#";
         description = "Dial *100*2*num# to call your Djezzy prepaid line to your prepaid and postpaid correspondents if your balance is not enough.";
+        break;
+      case "hide-number":
+        code = "#31#num";
+        description = "Dial #31#num to hide your number.";
         break;
       default:
         break;
