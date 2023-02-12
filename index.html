@@ -23,18 +23,23 @@
     <div class="select-container">
       <label for="operator-select">Select Operator:</label>
       <select id="operator-select">
-        <option value="Mobilis">Mobilis</option>
-        <option value="Ooredoo">Ooredoo</option>
-        <option value="Djezzy">Djezzy</option>
+        <optgroup label="Mobile Operators">
+         <option value="Mobilis" selected>Mobilis</option>
+         <option value="Ooredoo">Ooredoo</option>
+         <option value="Djezzy">Djezzy</option>
+        </optgroup>
       </select>
     </div>
 
     <div class="select-container">
       <label for="task-select">Select Task:</label>
       <select id="task-select">
-        <option value="phone-number">Phone Number</option>
+        <option value="phone-number" selected>Phone Number</option>
         <option value="check-balance">Check Balance</option>
         <option value="services-portal">Services Portal</option>
+        <optgroup label="Coming Soon>
+         <option value="hidden-call">Hidden Call</option>
+        </optgroup>
       </select>
     </div>
 
