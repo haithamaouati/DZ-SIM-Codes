@@ -14,7 +14,7 @@ ___
 # DZ SIM Codes
 DZ SIM Codes
 
-This web application gives you a set of **codes** with descriptions for the three mobile operators in **Algeria**: Mobilis, Ooredoo and Djezzy.
+[DZ](https://haithamaouati.github.io/DZ-SIM-Codes) — This web application gives you a set of **codes** with descriptions for the three mobile operators in **Algeria**: Mobilis, Ooredoo and Djezzy.
 
 ## Table of Contents
 - [Demo](#demo)
