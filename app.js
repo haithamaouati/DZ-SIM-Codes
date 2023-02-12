@@ -26,6 +26,10 @@ function updateCode() {
         code = "*600#";
         description = "Dial *600# to access Mobilis services portal.";
         break;
+      case "call-me":
+        code = "*606*num#";
+        description = "Dial *606*num# to call your Mobilis prepaid line to your prepaid and postpaid correspondents if your balance is not enough.";
+        break;
       default:
         break;
     }
@@ -43,6 +47,10 @@ function updateCode() {
         code = "*113#";
         description = "Dial *113# to access Ooredoo services portal.";
         break;
+      case "call-me":
+        code = "*444*1*num#";
+        description = "Dial *444*1*num# to call your Ooredoo prepaid line to your prepaid and postpaid correspondents if your balance is not enough.";
+        break;
       default:
         break;
     }
@@ -59,6 +67,10 @@ function updateCode() {
       case "services-portal":
         code = "*700#";
         description = "Dial *700# to access Djezzy services portal.";
+        break;
+      case "call-me":
+        code = "*100*2*num#";
+        description = "Dial *100*2*num# to call your Djezzy prepaid line to your prepaid and postpaid correspondents if your balance is not enough.";
         break;
       default:
         break;
