@@ -18,6 +18,8 @@ DZ SIM Codes
 
 ## Table of Contents
 - [Demo](#demo)
+- [Flowchart](#flowchart)
+- [Languages](#languages)
 - [Author](#author)
 - [License](#license)
 
@@ -25,11 +27,20 @@ DZ SIM Codes
 Version: **1.0**
 [https://haithamaouati.github.io/DZ-SIM-Codes](https://haithamaouati.github.io/DZ-SIM-Codes)
 
-**Flowchart**
+## Flowchart
 
 ```mermaid
 flowchart TD;
 O((Operator))-->|Mobilis|T(Task)-->|Check Balance|C[Code];
+```
+
+## Languages
+```mermaid
+pie
+    title Languages
+    "HTML" : 36.9
+    "CSS" : 4.1
+    "JavaScript" : 59.0
 ```
 
 ## Author
