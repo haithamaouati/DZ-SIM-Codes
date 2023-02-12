@@ -38,6 +38,10 @@ function updateCode() {
         code = "#31#num";
         description = "Dial #31#num to hide your number.";
         break;
+      case "deactivate-serivices":
+        code = "*152#";
+        description = "Dial *152# to deactivate all value-added services.";
+        break;
       default:
         break;
     }
