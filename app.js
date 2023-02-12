@@ -30,6 +30,10 @@ function updateCode() {
         code = "*606*num#";
         description = "Dial *606*num# to call your Mobilis prepaid line to your prepaid and postpaid correspondents if your balance is not enough.";
         break;
+      case "send-credit":
+        code = "*610*num*amount#";
+        description = "Dial *610*num*amount# to send credit to a friend.";
+        break;
       case "hide-number":
         code = "#31#num";
         description = "Dial #31#num to hide your number.";
@@ -55,6 +59,10 @@ function updateCode() {
         code = "*444*1*num#";
         description = "Dial *444*1*num# to call your Ooredoo prepaid line to your prepaid and postpaid correspondents if your balance is not enough.";
         break;
+      case "send-credit":
+        code = "*115*num*amount#";
+        description = "Dial *115*num*amount# to send credit to a friend.";
+        break;
       case "hide-number":
         code = "#31#num";
         description = "Dial #31#num to hide your number.";
@@ -79,6 +87,10 @@ function updateCode() {
       case "call-me":
         code = "*100*2*num#";
         description = "Dial *100*2*num# to call your Djezzy prepaid line to your prepaid and postpaid correspondents if your balance is not enough.";
+        break;
+      case "send-credit":
+        code = "*710*num*amount#";
+        description = "Dial *710*num*amount# to send credit to a friend.";
         break;
       case "hide-number":
         code = "#31#num";
