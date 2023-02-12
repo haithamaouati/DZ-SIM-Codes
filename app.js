@@ -34,6 +34,10 @@ function updateCode() {
         code = "*610*num*amount#";
         description = "Dial *610*num*amount# to send credit to a friend.";
         break;
+      case "recharge-coupon":
+        code = "*111*num#";
+        description = "Dial *111*num# to top up the balance with the coupon.";
+        break;
       case "hide-number":
         code = "#31#num";
         description = "Dial #31#num to hide your number.";
@@ -66,6 +70,10 @@ function updateCode() {
       case "send-credit":
         code = "*115*num*amount#";
         description = "Dial *115*num*amount# to send credit to a friend.";
+        break;
+      case "recharge-coupon":
+        code = "*222*num#";
+        description = "Dial *222*num# to top up the balance with the coupon.";
         break;
       case "hide-number":
         code = "#31#num";
