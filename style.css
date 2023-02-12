@@ -1,23 +1,68 @@
 body {
-  font-family: Ubuntu;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #f9f9f9;
+  padding: 20px;
   text-align: center;
+}
+
+pre {
+  font-size: 30px;
+  margin-bottom: 20px;
 }
 
 .container {
   display: flex;
-  flex-direction: column;
+  justify-content: center;
   align-items: center;
-}
-
-.select-container {
-  margin: 10px 0;
-}
-
-.code-container {
+  flex-wrap: wrap;
   margin-top: 20px;
 }
 
+.select-container {
+  margin: 20px;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+select {
+  width: 200px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.code-container {
+  margin: 20px;
+  text-align: left;
+}
+
 textarea {
-  width: 300px;
-  height: 70px;
+  width: 500px;
+  height: 200px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.mermaid {
+  margin-top: 20px;
+}
+
+hr {
+  margin-top: 40px;
+  border-top: 1px solid #ccc;
+  width: 50%;
+}
+
+.github-button {
+  margin-top: 20px;
+}
+
+p {
+  margin-top: 20px;
 }
