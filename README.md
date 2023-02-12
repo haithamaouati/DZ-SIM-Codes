@@ -1,7 +1,7 @@
-![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/Algerian-SIM-Codes?logo=eye)
-![stars](https://custom-icon-badges.demolab.com/github/stars/haithamaouati/Algerian-SIM-Codes?logo=star)
-![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/Algerian-SIM-Codes?logo=repo-forked)
-![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/Algerian-SIM-Codes?logo=law)
+![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/DZ-SIM-Codes?logo=eye)
+![stars](https://custom-icon-badges.demolab.com/github/stars/haithamaouati/DZ-SIM-Codes?logo=star)
+![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/DZ-SIM-Codes?logo=repo-forked)
+![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/DZ-SIM-Codes?logo=law)
 ___
 ```
   ____ _____
@@ -23,7 +23,7 @@ This web application gives you a set of **codes** with descriptions for the thre
 
 ## Demo
 Version: **1.0**
-[https://haithamaouati.github.io/Algerian-SIM-Codes](https://haithamaouati.github.io/Algerian-SIM-Codes)
+[https://haithamaouati.github.io/DZ-SIM-Codes](https://haithamaouati.github.io/DZ-SIM-Codes)
 
 **Flowchart**
 
@@ -36,6 +36,6 @@ O((Operator))-->|Mobilis|T(Task)-->|Check Balance|C[Code];
 Made with :heart: by **Haitham Aouati**
 
 ## License
-This repository is under [Unlicense License](https://github.com/haithamaouati/Algerian-SIM-Codes/blob/main/LICENSE).
+This repository is under [Unlicense License](https://github.com/haithamaouati/DZ-SIM-Codes/blob/main/LICENSE).
 
 ([Table of Contents](#table-of-contents))
