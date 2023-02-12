@@ -4,15 +4,15 @@
 ![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/Algerian-SIM-Codes?logo=law)
 ___
 ```
-  ____ ___ __  __    ____          _      
- / ___|_ _|  \/  |  / ___|___   __| | ___ 
- \___ \| || |\/| | | |   / _ \ / _` |/ _ \
-  ___) | || |  | | | |__| (_) | (_| |  __/
- |____/___|_|  |_|  \____\___/ \__,_|\___|
+  ____ _____
+ |  _ \__  /
+ | | | |/ / 
+ | |_| / /_ 
+ |____/____|
 ```
 
-# Algerian SIM Codes
-Algerian SIM Codes
+# DZ SIM Codes
+DZ SIM Codes
 
 This web application gives you a set of **codes** with descriptions for the three mobile operators in **Algeria**: Mobilis, Ooredoo and Djezzy.
 
